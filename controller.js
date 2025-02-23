@@ -18,7 +18,7 @@ module.exports = {
               app_description: "Get current youtube video from a creator channel.",
               app_logo:
                 "https://img.freepik.com/free-photo/youtube-icon-line-connection-circuit-board_1379-892.jpg?semt=ais_hybrid",
-              app_name: "MyTube Feed.",
+              app_name: "Notify Youtube content follower",
               app_url:
                 "https://hng-stage-3-telex-integration-2.onrender.com/api/telex/integration",
               background_color: "#fff",
