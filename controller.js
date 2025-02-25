@@ -55,7 +55,7 @@ module.exports = {
                 label: "interval",
                 type: "text",
                 required: true,
-                default: "* * * * *",
+                default: "0 10 * * 1",
               }
             ],
             tick_url:
